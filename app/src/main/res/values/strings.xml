@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HandyPotter03</string>
+    <string name="intrologo" />
+    <string name="linebylinesub" />
+    <string name="mic" />
+    <string name="subtitle" />
+    <string name="unityplayer" />
+    <string name="interpret">Interpret</string>
+    <string name="show_sub">Show sub</string>
+    <string name="show_subtitle">show subtitle</string>
+    <string name="str_start" />
+    <string name="str_stop" />
+    <string name="record">RECORD</string>
+    <string name="ccc">CCC</string>
+</resources>
