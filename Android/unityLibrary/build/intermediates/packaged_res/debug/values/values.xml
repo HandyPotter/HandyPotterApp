@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorOrange">#E78151</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorsGray">#F4E6E1</color>
+    <item name="audioRecording" type="id"/>
+    <item name="clientInactive" type="id"/>
+    <item name="clientReady" type="id"/>
+    <item name="endPointDetectTypeSelected" type="id"/>
+    <item name="endPointDetected" type="id"/>
+    <item name="finalResult" type="id"/>
+    <item name="partialResult" type="id"/>
+    <item name="recognitionError" type="id"/>
+    <string name="_3rdscreen">3rdscreen</string>
+    <string name="actionbar">actionbar</string>
+    <string name="app_name">　　　　　Handy Potter</string>
+    <string name="blank">⠀</string>
+    <string name="ccc">CCC</string>
+    <string name="dsfsfsfsfsdf">\'dsfsfsfsfsdf\'</string>
+    <string name="empty">⠀</string>
+    <string name="inputtext">텍스트를 입력하세요.</string>
+    <string name="interpret">Interpret</string>
+    <string name="intrologo"/>
+    <string name="linebylinesub"/>
+    <string name="mic"/>
+    <string name="record">RECORD</string>
+    <string name="sdf">sdf</string>
+    <string name="show_sub">Show sub</string>
+    <string name="show_subtitle">show subtitle</string>
+    <string name="str_start"/>
+    <string name="str_stop"/>
+    <string name="sub">sub</string>
+    <string name="subtitle"/>
+    <string name="textview">textview</string>
+    <string name="unityplayer"/>
+    <string name="xx">⠀</string>
+    <string name="검색">자막보기</string>
+    <string name="마이크">마이크</string>
+    <string name="자막">자막</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+
+        <item name="windowNoTitle">true</item>
+
+    </style>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+</resources>

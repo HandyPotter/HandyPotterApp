@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+    
+                 
+                            
+                                                             
+           
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#92E4E1E1"
+    android:orientation="vertical" android:tag="layout/frag1_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="286dp"
+        android:contentDescription="@string/unityplayer"
+        app:srcCompat="@drawable/unity" />
+
+    <TextView
+        android:id="@+id/textView_01"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/tb"
+        android:padding="30sp"
+        android:paddingTop="10sp"
+        android:tag="binding_1"            
+        android:textColor="#000000"
+        android:textSize="12sp" />
+
+</LinearLayout>
+         
